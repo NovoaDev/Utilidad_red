@@ -8,12 +8,12 @@ set IP_PUBLICA_WS=200.200.200.200      < ip publica del webservice al cual se le
 
 ::IP ESTATICA
 set IP_ESTATICA_IP=192.168.1.200       <
-set IP_ESTATICA_SM=255.255.255.0        |
-set IP_ESTATICA_GW=192.168.1.1          | Configuracion ip, mascara de subred y gateway para la configuracion ip estatica
+set IP_ESTATICA_SM=255.255.255.0        
+set IP_ESTATICA_GW=192.168.1.1           Configuracion ip, mascara de subred y gateway para la configuracion ip estatica
 
 ::DNS
 set DNS_ISP_1=200.44.32.12             <
-set DNS_ISP_2=200.44.32.13              | Dns para el cambio de DNS por iSP
+set DNS_ISP_2=200.44.32.13               Dns para el cambio de DNS por iSP
 
 OPCIONES DEL MENU
   1. Ping WS
